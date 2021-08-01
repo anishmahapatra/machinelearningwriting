@@ -1,0 +1,11 @@
+Article Name: 100 AI Interview Questions and Answers
+Deadline: ?
+
+Ask:
+- 50 Questions based on skills required for an AI Engineer
+Pick up 5 Core Skills and break up the questions into 5 sets of 10
+	- Neural Networks
+	- Computer Vision
+	- Programming
+
+- 50 Scenario-Based Questions
