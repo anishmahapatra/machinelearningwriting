@@ -1,0 +1,26 @@
+Example using Cookie cutter
+Implementation using Seldon.ai (https://www.seldon.io/tech/solutions/)
+Awesome Production ML https://github.com/EthicalML/awesome-production-machine-learning
+Video explaining end to end ML https://www.youtube.com/watch?v=Ynb6X0KZKxY
+Interpretabl ML/ XAI using SHAP, LIME, SHAPash
+Project using DVC (Equivaluent of Git)
+End to end project using MLFlow
+Model Registry using MLStore, FeatureStore
+Chatbot using Rasa, deployed on Facebook messenger
+Autokeras, TF-Flow	
+Viz using Pandas profiling, SweetViz, DataPrep, Streamlit
+Project using BERT, Transfer Learning
+FaaS framework implementation using Apache OpenWhisk, OpenFaaS
+Distributed framework implementation using Python DASK version in place of PySpark
+Docker, FastAPI
+
+
+
+
+
+
+
+
+
+
+
