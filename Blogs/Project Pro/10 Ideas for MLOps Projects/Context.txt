@@ -14,6 +14,10 @@ FaaS framework implementation using Apache OpenWhisk, OpenFaaS
 Distributed framework implementation using Python DASK version in place of PySpark
 Docker, FastAPI
 
+https://mlops.toys/
+https://ml-ops.org/content/state-of-mlops
+
+
 
 
 
