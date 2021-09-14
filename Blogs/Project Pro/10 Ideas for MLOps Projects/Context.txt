@@ -16,6 +16,7 @@ Docker, FastAPI
 
 https://mlops.toys/
 https://ml-ops.org/content/state-of-mlops
+https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4
 
 
 
