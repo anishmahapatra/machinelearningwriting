@@ -1,0 +1,22 @@
+https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/tutorials/learn-multivariate-anomaly-detection
+
+https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/tutorials/batch-anomaly-detection-powerbi
+
+https://github.com/sassoftware/iot-detecting-degradation-wind-turbine
+
+https://github.com/aws-samples/amazon-sagemaker-edge-manager-demo
+
+Databricks:
+
+https://databricks.com/blog/2020/08/03/modern-industrial-iot-analytics-on-azure-part-1.html
+
+https://databricks.com/blog/2020/08/11/modern-industrial-iot-analytics-on-azure-part-2.html
+
+https://databricks.com/blog/2020/08/20/modern-industrial-iot-analytics-on-azure-part-3.html
+
+
+Data, Databricks:
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8845635641526563/980585315810617/8667941689309370/latest.html
+
+https://www.nrel.gov/docs/fy12osti/54530.pdf
