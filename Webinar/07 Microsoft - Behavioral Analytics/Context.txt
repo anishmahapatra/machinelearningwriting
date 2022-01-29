@@ -1,0 +1,88 @@
+Insight into customer behaviour.
+
+Focuses on understanding how consumers act and why - this enables us to offer the right fulfillment to the customer at the righ time. The troves of data can be analysed to understand how to keep a customer engaged.
+
+In the future, this has to be done in a way that is able to maintain the privacy of customers while still being able to target the right customers.
+
+Business analytics -> who, what where and when  of BI
+Behavioral analytics -> narrows scope, takes a human view of data
+
+The issue with (pure) Data Science is that it takes a very cold approach to data relying on the preliminary understanding of the stakeholders of the business. The reason it takes time to dvelve into behavioral analytics is that we have pre-concieved notions. If we are able to break through them to get an intuition of real-world data, we stand a much stronger chance to implement behavioral analytics.
+
+Most definitions focus on e-commerce, but behavior analytics is simply a matter of keeping a consumer engaged to a product.
+
+Behavioral aanlytics is used in the following industries:
+- E-commerce and retail
+- Online gaming
+- Application development
+- Security
+
+We need to understand what users are looking at  (the what and the why)
+Analyzing user behaviors through the user journey within your digital channels provide understanding to this process.
+
+If we are able to predict the intent of the user, we form true understanding of a product.
+While there is a variety of data and analytics to achieve this purpose, behavior data is unique in that it’s concrete, user-generated data that is highly accurate in predicting intent.
+Performing analytics after an action has been taken is alright, being able to leverage existing data to predict insights is where the real insights are.
+
+All of the insights about a product do not lie in the behavioral patterns of using the product alone.
+Aggregation is an important skill if used right can change perspective.
+
+Who needs behavioral analytics?
+Marketers, Sales, Data Analysts, Customer Service
+
+Types of user data:
+- Registered Data
+- Observed Data
+- Voice of the consumer
+
+Behaviour Analytics vs business analytics
+
+Five steps for successful user behavioral analytics
+Implementing behavioral analytics data into your business processes can be time-consuming. To ensure that you’re receiving the right type of insights, you must focus on achieving success through technical, analytical, and strategic tasks. The following five steps are needed to start a user behavioral analytics project:
+
+Choose your achievement metrics, KPIs, and goals.
+
+Define the most desirable user journey, which should satisfy both the user and the business.
+
+Decide which events you need to track based on user flow, highlighting certain events through a tracking plan and revising as necessary.
+
+Set unique user identifiers to follow individuals throughout their journey for each visit.
+
+Implement behavioral data analytics software and begin event tracking in your minimum viable product (MVP), while consistently updating the tracking plan and analytics service to fit your goals as you go.
+
+(https://mixpanel.com/blog/behavioral-analytics-guide/)
+Steps for successful behavioral analysis
+1. Select goals, KPIs, and metrics
+2. Define the most desirable user journeys
+3. Create a tracking plan
+4. Set a unique identifier for users
+5. Implement analytics and begin event tracking
+
+
+How to apply the results of behavioral analytics
+Segmentation
+Funnels
+
+
+Step 1: Define your business and analytics goals.
+Step 2: Map out the critical paths that align with your goals.
+Step 3: Organize your event taxonomy.
+Step 4: Understand how users are being identified
+Step 5: Decide if you need cross-platform behavior analytics
+Step 6: Establish the ‘Minimum Viable Instrumentation’
+Step 7: Track your events
+Step 8: Set user properties and event properties
+Step 9: Verify user behavior events are being tracked properly
+Step 10: Start digging into user behavior
+
+Context: This is a session to understand 
+
+
+
+
+
+
+
+
+
+

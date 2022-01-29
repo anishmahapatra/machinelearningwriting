@@ -18,5 +18,7 @@ https://databricks.com/blog/2020/08/20/modern-industrial-iot-analytics-on-azure-
 Data, Databricks:
 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8845635641526563/980585315810617/8667941689309370/latest.html
-
 https://www.nrel.gov/docs/fy12osti/54530.pdf
+
+8093546930
+
